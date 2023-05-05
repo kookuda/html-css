@@ -62,3 +62,28 @@ footer{
     font-size: 12px;
     color: #fff;
 }
+
+/* first-v */
+#first-v{
+    height: 770px;
+    background-image: url("../img/bg1.png");
+    background-size: cover;
+}
+.first-v-wrap{
+    padding: 285px 0 255px;
+    /* ブロックの中央揃え */
+    margin: 0 auto;
+    width: 250px;
+    text-align: center;
+}
+/* first-viewのスタイル */
+.first-v-title {
+    margin-bottom:150px;
+    /* 文字を太文字に */
+    font-weight:bold;
+    font-size: 27px;
+    color: #fff;
+}
+.first-v-btm{
+
+}
